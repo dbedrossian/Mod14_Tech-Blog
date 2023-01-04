@@ -36,4 +36,4 @@ Post.init(
     }
 );
 
-module.exports = Gallery;
+module.exports = Post;
